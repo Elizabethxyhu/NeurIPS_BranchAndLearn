@@ -1,6 +1,8 @@
 # NeurIPS_BranchAndLearn
 This repository is the official implementation of the paper: Branch & Learn for Recursively and Iteratively Solvable Problems in Predict+Optimize
 
+Download and extract the [datasets](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155136882_link_cuhk_edu_hk/ERuXDuDI4lBDisCxvXPW4RIBgcBwf560ULJifXUkqnNxnw?e=Sd3h5P).
+
 MCFP_BAL:
 This is the package for the minimum cost flow problem with B&L. The training process and the test process are divided in two files. Please use the following commands:
 1. compile the program:
